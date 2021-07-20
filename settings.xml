@@ -1,0 +1,28 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                      http://maven.apache.org/xsd/settings-1.0.0.xsd">
+    <profiles>
+        <profile>
+            <id>win--packages-repo</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+            <repositories>
+                <repository>
+                    <id>win--packages-repo</id>
+                    <url>https://win-643459500120.d.codeartifact.us-west-2.amazonaws.com/maven/packages-repo/</url>
+                </repository>
+            </repositories>
+        </profile>
+    </profiles>
+
+    <servers>
+        <server>
+            <id>win--packages-repo</id>
+            <username>aws</username>
+           <password>eyJ2ZXIiOjEsImlzdSI6MTYyNDg2MjYwMywiZW5jIjoiQTEyOEdDTSIsInRhZyI6ImVqMXlvaDUtcGpJdVdJQ1RSUkM1eEEiLCJleHAiOjE2MjQ5MDU4MDMsImFsZyI6IkExMjhHQ01LVyIsIml2IjoiVF94SThMdFRJa1RwTDAzViJ9.tnJwjhjf2Td_zvNz6_SZjg.pnVZIWYTAuZtLmIP.IOaeFAT-0LsSJk3Wa8r4A1TOyysukAcB0fTsT84KyMvbP5t2vBOazH4X1ZQcH1A1fKQYQMXMFHU2S35xUmCsEk3KziK34ZaOclii9E9QGg2qw6MkPkScNqHXxOp80e_2OaKkFO6NCGqXzTOpSF6SIiXyp8LJrUzO3ACnxh7qUZSFbRt3mwNB9VKMO7aBmFpqTrBNsWTeozYHtkapEH7lAoK_5yLM0OZG-7WTf3jt0Aqw1ilKn3TkGuyaaJrk-OKjnUKJnbX54qveJNcFxaAcGziw2f9EwZJjUBbncdEF-rHY_TUDPZORnH-0CcU-hrkvIiZB5rPPWwFr0eH8s7-58QxmpoQD5u4fGyo0Wb7exwhYFQvjINk8C_m4tXveh2LJkkTUuNQ-T9bsjVHk-NLllu7b8EyluD66lPcEif84savs7p7ZJHQph96kdtW3Z2mpzwhoxF6vmQM-yQulxxq_7P8CRE6aEkjf39sN15zw9RsS9QIXeuOKhtg7j2HxY-Sgm-kD1pXVozEpfntrWm43xyABMYB5Q0vebZYEXhIwyag_ZA_J3PzOao6pMANxa1FtRBLvUm8wZ7udt3mtATMj7nAXItrgDCksqh2L1SoaQYSTACnl4w808SHy_By8o3MyRJdEf081h1wPEJb4HFr_Nl4zCV5qfcAjrJeiTyaVr1UZXp4a7z0Wt-2EDey1P8Y65Gcve1F3iKdRU1Axt7iK8dhNUyKdEAaC5YLz78fRecoopkFjK6dfqNc8rpcX2s9saQ-CLtIqyRz66pJrNeRNUPZMKY-QNJ3MEbmYUKR3ZimOijPq59v6S_Da0_KbgXJHX7hDoBMzsRGSEHt4ejA_tdLIz1w6jlJyqHnwmfhzYvr2In8q7gNLgqa_f7_8HXl-wNOZaacgSg5GrldZAL5uvtKzNCHy_BVmZzLI5aPRuX0ckwW6.0__orc1RhbVbdFsOd7KWPw
+           </password>
+        </server>
+    </servers>
+</settings>

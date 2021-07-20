@@ -1,0 +1,11 @@
+{
+  "seo": {
+    "title": "Meta-title-test-edit",
+    "keywords": "Meta-Keywords-test",
+    "description": "Meta-Description-test",
+    "robots": {
+      "status": "published",
+      "value": "index,none,follow"
+    }
+  }
+}

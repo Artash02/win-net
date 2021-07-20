@@ -1,0 +1,107 @@
+{
+  "reviews": {
+    "products": {
+      "rating": 7,
+      "intro": "<p>Sports-Games-Covered-Introduction</p>",
+      "summary": "<p>Sports-Games-Covered-Summary</p>",
+      "esports": {
+        "tagGroup": "esports",
+        "tags": [
+          "5ebd631a224ed80010a0fafc",
+          "5ebd631a224ed80010a0faf9"
+        ]
+      },
+      "sports": {
+        "tagGroup": "sports",
+        "tags": [
+          "5ebd6382224ed80010a0fb06",
+          "5ebd6382224ed80010a0fb04",
+          "5ebd6382224ed80010a0fb07"
+        ]
+      },
+      "other": {
+        "tagGroup": "other-products",
+        "tags": [
+          "5ebd603b224ed80010a0fade",
+          "5ebd603b224ed80010a0fadf"
+        ]
+      }
+    },
+    "responsibleGaming": {
+      "rating": 7,
+      "intro": "<p>Responsible-Gaming-Introduction-test</p>",
+      "summary": "<p>Responsible-Gaming-Summary-test</p>",
+      "associatedOrganizations": {
+        "tagGroup": "associated-organizations",
+        "tags": [
+          "5ebd63be224ed80010a0fb13",
+          "5ebd63be224ed80010a0fb11"
+        ]
+      }
+    },
+    "depositAndWithdrawal": {
+      "rating": 7,
+      "intro": "<p>Deposit-and-Withdrawal-test</p>",
+      "summary": "<p>Deposit-And-Withdrawal-test</p>",
+      "payments": {
+        "tagGroup": "payments",
+        "tags": [
+          "5ebd5fe8224ed80010a0fad2",
+          "5ebd5fe8224ed80010a0fad3"
+        ]
+      },
+      "withdrawal": {
+        "tagGroup": "payments",
+        "tags": [
+          "5ebd5fe8224ed80010a0fad1",
+          "5ebd5fe8224ed80010a0fad0"
+        ]
+      }
+    },
+    "onboarding": {
+      "requiresAccount": true,
+      "rating": 7,
+      "intro": "<p>OnBoarding-process-intorduction-test</p>",
+      "summary": "<p>OnBoarding-process-summary-test</p>",
+      "verificationMethods": {
+        "tagGroup": "account-verification-methods",
+        "tags": [
+          "5ebd6406224ed80010a0fb18",
+          "5ebd6406224ed80010a0fb19"
+        ]
+      }
+    },
+    "customerServices": {
+      "availability": "500",
+      "rating": 7,
+      "intro": "<p>Customer-Services-introduction-test</p>",
+      "summary": "<p>Customer-Services-Summary-test</p>",
+      "channels": {
+        "tagGroup": "channels",
+        "tags": [
+          "5ebd645c224ed80010a0fb1d",
+          "5ebd645c224ed80010a0fb1e"
+        ]
+      },
+      "notes": {
+        "tagGroup": "note-worthy-mentions",
+        "tags": [
+          "5ebd648b224ed80010a0fb25",
+          "5ebd648b224ed80010a0fb26"
+        ]
+      }
+    },
+    "utility": {
+      "cashOut": false,
+      "rating": 9,
+      "intro": "<p>Utility-Features-Introduction-test</p>",
+      "summary": "<p>Utility-Features-Summary-test</p>",
+      "features": [
+        {
+          "name": "Feature-1",
+          "description": "Description-1"
+        }
+      ]
+    }
+  }
+}

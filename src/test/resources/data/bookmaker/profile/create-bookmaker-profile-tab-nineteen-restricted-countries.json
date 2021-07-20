@@ -1,0 +1,72 @@
+{
+  "owner": "company-name-test",
+  "establishedAt": "2020-02-25T08:58:36.506Z",
+  "termsAndConditions": "https://github.com/",
+  "url": "https://github.com/",
+  "reviews": {
+    "overall": {
+      "summary": "<p>Summary</p>",
+      "overview": "<p>Overview</p>"
+    }
+  },
+  "countries": {
+    "licensed": {
+      "tagGroup": "countries",
+      "tags": [
+        "Belarus",
+        "Belgium"
+      ]
+    },
+    "restricted": {
+      "tagGroup": "countries",
+      "tags": [
+        "Australia",
+        "Bulgaria",
+        "Denmark",
+        "France",
+        "Greece",
+        "Greenland",
+        "Iran, Islamic Republic of",
+        "Israel",
+        "Mexico",
+        "North Korea",
+        "Romania",
+        "Georgia",
+        "Singapore",
+        "South Africa",
+        "Turkey",
+        "United States",
+        "United Kingdom",
+        "Spain",
+        "Somalia"
+      ]
+    }
+  },
+  "languages": {
+    "tagGroup": "languages",
+    "tags": [
+      "5ebd612d224ed80010a0faf1"
+    ]
+  },
+  "currencies": {
+    "tagGroup": "currencies",
+    "tags": [
+      "AMD",
+      "USD",
+      "RUB",
+      "XAU",
+      "GBP",
+      "AUD",
+      "AED",
+      "CAD",
+      "EUR",
+      "SWF",
+      "ARS",
+      "BSD",
+      "BZD",
+      "BWP",
+      "CVE",
+      "KYD"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "reviews": {
+    "bonus": {
+      "rating": 6,
+      "intro": "<p>introduction-test</p>",
+      "summary": "<p>summary-test</p>",
+      "bonuses": [
+        {
+          "url": "https://github.com/",
+          "name": "Bonus1-Armenia",
+          "value": "400",
+          "summary": "bonus1-country-Armenia-test",
+          "countries": {
+            "tagGroup": "countries",
+            "tags": [
+              "Armenia"
+            ]
+          },
+          "description": "<p>Description-test</p>"
+        },
+        {
+          "url": "https://github.com/",
+          "name": "Bonus2-country-is-all-countries",
+          "value": "850",
+          "summary": "Summary-select-all-test",
+          "description": "<p>description-test</p>"
+        },
+        {
+          "url": "https://github.com/",
+          "name": "Bonus3-country-is-australia",
+          "value": "200",
+          "summary": "bonus3-summary-test",
+          "countries": {
+            "tagGroup": "countries",
+            "tags": [
+              "Australia"
+            ]
+          },
+          "description": "<p>bonus3-description-test</p>"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "reviews": {
+    "products": {
+      "rating": 10,
+      "intro": "<p>Sports-Games-Covered-Introduction</p>",
+      "summary": "<p>Sports-Games-Covered-Summary</p>",
+      "esports": {
+        "tagGroup": "esports",
+        "tags": [
+          "Dota 2",
+          "LoL",
+          "CS:GO"
+        ]
+      },
+      "sports": {
+        "tagGroup": "sports",
+        "tags": [
+          "Tennis",
+          "Football",
+          "Basketball"
+        ]
+      },
+      "other": {
+        "tagGroup": "other-products",
+        "tags": [
+          "Casino",
+          "Virtual Sports"
+        ]
+      }
+    },
+    "responsibleGaming": {
+      "rating": 9,
+      "intro": "<p>Responsible-Gaming-Introduction-test</p>",
+      "summary": "<p>Responsible-Gaming-Summary-test</p>",
+      "associatedOrganizations": {
+        "tagGroup": "associated-organizations",
+        "tags": [
+          "MGA",
+          "IBIS",
+          "IBAS"
+        ]
+      }
+    },
+    "depositAndWithdrawal": {
+      "rating": 9,
+      "intro": "<p>Deposit-and-Withdrawal-test</p>",
+      "summary": "<p>Deposit-And-Withdrawal-test</p>",
+      "payments": {
+        "tagGroup": "payments",
+        "tags": [
+          "VISA",
+          "Maestro",
+          "MasterCard"
+        ]
+      },
+      "withdrawal": {
+        "tagGroup": "payments",
+        "tags": [
+          "ARCA",
+          "Paypal"
+        ]
+      }
+    },
+    "onboarding": {
+      "requiresAccount": true,
+      "rating": 9,
+      "intro": "<p>OnBoarding-process-intorduction-test</p>",
+      "summary": "<p>OnBoarding-process-summary-test</p>",
+      "verificationMethods": {
+        "tagGroup": "account-verification-methods",
+        "tags": [
+          "Phone",
+          "Email"
+        ]
+      }
+    },
+    "customerServices": {
+      "availability": "500",
+      "rating": 8,
+      "intro": "<p>Customer-Services-introduction-test</p>",
+      "summary": "<p>Customer-Services-Summary-test</p>",
+      "channels": {
+        "tagGroup": "channels",
+        "tags": [
+          "Phone",
+          "Email"
+        ]
+      },
+      "notes": {
+        "tagGroup": "note-worthy-mentions",
+        "tags": [
+          "Friendly",
+          "Helpfullness"
+        ]
+      }
+    },
+    "utility": {
+      "cashOut": false,
+      "rating": 9,
+      "intro": "<p>Utility-Features-Introduction-test</p>",
+      "summary": "<p>Utility-Features-Summary-test</p>",
+      "features": [
+        {
+          "name": "Feature-1",
+          "description": "Description-1"
+        }
+      ]
+    }
+  }
+}

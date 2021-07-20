@@ -1,0 +1,16 @@
+{
+  "reviews": {
+    "bonus": {
+      "bonuses": [
+        {
+          "url": "https://winners.net/",
+          "best": true,
+          "name": "Bonus-name-test",
+          "value": "1021",
+          "summary": "Summary-test",
+          "description": "<p>Description-test</p>"
+        }
+      ]
+    }
+  }
+}

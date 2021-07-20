@@ -1,0 +1,25 @@
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Maven
+all.log
+log/
+target/
+.m2
+
+# Configuration
+.env
+
+#Selenoid
+selenoid
+
+# Unnecessary files
+src/test/resources/failed.png
+src/test/resources/homePageScreenshot.png
+src/test/resources/.~lock.Countries.xls#
+src/test/resources/.~lock.PrivacyPolicy.xls#
+
+TestTest
+testng.xml

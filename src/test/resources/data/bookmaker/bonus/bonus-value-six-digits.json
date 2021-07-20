@@ -1,0 +1,25 @@
+{
+  "reviews": {
+    "bonus": {
+      "rating": 3,
+      "intro": "<p>Introduction-test</p>",
+      "summary": "<p>Summary-test</p>",
+      "bonuses": [
+        {
+          "best": true,
+          "name": "bonus-name",
+          "value": "50008",
+          "summary": "bonus-summary-test",
+          "countries": {
+            "tagGroup": "countries",
+            "tags": [
+              "Albania",
+              "Afghanistan"
+            ]
+          },
+          "description": "<p>description-test</p>"
+        }
+      ]
+    }
+  }
+}

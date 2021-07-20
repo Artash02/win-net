@@ -1,0 +1,13 @@
+FROM maven:3.6.3-openjdk-16
+MAINTAINER priotix
+
+ARG AWS_CODEARTIFACT_USER
+ARG AWS_CODEARTIFACT_TOKEN
+
+WORKDIR /home/app
+
+COPY pom.xml settings.xml /home/app/
+
+COPY src /home/app/src
+
+CMD mvn test -Dmaven.surefire.debug="-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:5005" -Dsurefire.suiteXmlFiles=src/test/resources/testng-${HOST_ENV}.xml   -f /home/app/pom.xml -s /home/app/settings.xml

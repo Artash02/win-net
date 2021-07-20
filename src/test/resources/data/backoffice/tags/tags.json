@@ -1,0 +1,15 @@
+{
+  "tags":[
+    {
+      "name":"tag_name",
+      "resourceId":"resource_id",
+      "type":"sport",
+      "channel":"winnersnet",
+      "color":"#a23f0d",
+      "images":{
+        "default":{
+        }
+      }
+    }
+  ]
+}

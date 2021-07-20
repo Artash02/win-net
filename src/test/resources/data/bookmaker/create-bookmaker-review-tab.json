@@ -1,0 +1,107 @@
+{
+  "reviews": {
+    "products": {
+      "rating": 7,
+      "intro": "<p>Sports-Games-Covered-Introduction</p>",
+      "summary": "<p>Sports-Games-Covered-Summary</p>",
+      "esports": {
+        "tagGroup": "esports",
+        "tags": [
+          "Valorant",
+          "CS:GO"
+        ]
+      },
+      "sports": {
+        "tagGroup": "sports",
+        "tags": [
+          "Baseball",
+          "Valleyball",
+          "Basketball"
+        ]
+      },
+      "other": {
+        "tagGroup": "other-products",
+        "tags": [
+          "Live Casino",
+          "Pool Betting"
+        ]
+      }
+    },
+    "responsibleGaming": {
+      "rating": 9,
+      "intro": "<p>Responsible-Gaming-Introduction-test</p>",
+      "summary": "<p>Responsible-Gaming-Summary-test</p>",
+      "associatedOrganizations": {
+        "tagGroup": "associated-organizations",
+        "tags": [
+          "WHO",
+          "IBIS"
+        ]
+      }
+    },
+    "depositAndWithdrawal": {
+      "rating": 1,
+      "intro": "<p>Deposit-and-Withdrawal-test</p>",
+      "summary": "<p>Deposit-And-Withdrawal-test</p>",
+      "payments": {
+        "tagGroup": "payments",
+        "tags": [
+          "SWIFT Transfers",
+          "Yandex Money"
+        ]
+      },
+      "withdrawal": {
+        "tagGroup": "payments",
+        "tags": [
+          "Visa Electron",
+          "Maestro"
+        ]
+      }
+    },
+    "onboarding": {
+      "requiresAccount": true,
+      "rating": 8,
+      "intro": "<p>OnBoarding-process-intorduction-test</p>",
+      "summary": "<p>OnBoarding-process-summary-test</p>",
+      "verificationMethods": {
+        "tagGroup": "account-verification-methods",
+        "tags": [
+          "Email signature",
+          "Personal visita"
+        ]
+      }
+    },
+    "customerServices": {
+      "availability": "500",
+      "rating": 8,
+      "intro": "<p>Customer-Services-introduction-test</p>",
+      "summary": "<p>Customer-Services-Summary-test</p>",
+      "channels": {
+        "tagGroup": "channels",
+        "tags": [
+          "Instant chat",
+          "Personal visit"
+        ]
+      },
+      "notes": {
+        "tagGroup": "note-worthy-mentions",
+        "tags": [
+          "Professional treatment",
+          "Personalized service"
+        ]
+      }
+    },
+    "utility": {
+      "cashOut": false,
+      "rating": 4,
+      "intro": "<p>Utility-Features-Introduction-test</p>",
+      "summary": "<p>Utility-Features-Summary-test</p>",
+      "features": [
+        {
+          "name": "Feature-1",
+          "description": "Description-1"
+        }
+      ]
+    }
+  }
+}

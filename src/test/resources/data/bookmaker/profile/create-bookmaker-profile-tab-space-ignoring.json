@@ -1,0 +1,44 @@
+{
+  "owner": "Company-Name-Test",
+  "establishedAt": "2021-02-01T08:39:12.974Z",
+  "termsAndConditions": "https://winners.bet/",
+  "url": "https://winners.bet/",
+  "reviews": {
+    "overall": {
+      "summary": "<p> test </p>",
+      "overview": "<p> test </p>"
+    }
+  },
+  "countries": {
+    "licensed": {
+      "tagGroup": "countries",
+      "tags": [
+        "Afghanistan",
+        "Austria",
+        "Bangladesh"
+      ]
+    },
+    "restricted": {
+      "tagGroup": "countries",
+      "tags": [
+        "Algeria",
+        "American Samo"
+      ]
+    }
+  },
+  "languages": {
+    "tagGroup": "languages",
+    "tags": [
+      "Portugese",
+      "Spanish"
+    ]
+  },
+  "currencies": {
+    "tagGroup": "currencies",
+    "tags": [
+      "AMD",
+      "USD",
+      "RUB"
+    ]
+  }
+}

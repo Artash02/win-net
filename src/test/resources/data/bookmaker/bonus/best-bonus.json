@@ -1,0 +1,28 @@
+{
+  "reviews": {
+    "bonus": {
+      "rating": 8,
+      "intro": "<p>Introduction-test</p>",
+      "summary": "<p>SUmmary-test</p>",
+      "bonuses": [
+        {
+          "best": true,
+          "name": "Bonus1-best-bonus",
+          "value": "400",
+          "description": "<p>description-1</p>",
+          "countries": {
+            "tagGroup": "countries",
+            "tags": [
+              "Andorra"
+            ]
+          }
+        },
+        {
+          "name": "Bonus2",
+          "value": "500",
+          "description": "<p>description-2</p>"
+        }
+      ]
+    }
+  }
+}

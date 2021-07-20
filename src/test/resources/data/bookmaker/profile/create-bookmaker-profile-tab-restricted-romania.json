@@ -1,0 +1,41 @@
+{
+  "owner": "company-name-test",
+  "establishedAt": "2020-02-25T08:58:36.506Z",
+  "termsAndConditions": "https://github.com/",
+  "url": "https://github.com/",
+  "reviews": {
+    "overall": {
+      "summary": "<p>Summary</p>",
+      "overview": "<p>Overview</p>"
+    }
+  },
+  "countries": {
+    "licensed": {
+      "tagGroup": "countries",
+      "tags": [
+        "Algeria",
+        "Afghanistan"
+      ]
+    },
+    "restricted": {
+      "tagGroup": "countries",
+      "tags": [
+        "Armenia",
+        "Georgia",
+        "Romania"
+      ]
+    }
+  },
+  "languages": {
+    "tagGroup": "languages",
+    "tags": [
+      "Spanish"
+    ]
+  },
+  "currencies": {
+    "tagGroup": "currencies",
+    "tags": [
+      "RUB"
+    ]
+  }
+}

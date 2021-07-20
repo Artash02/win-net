@@ -1,0 +1,13 @@
+{
+  "reviews": {
+    "overall": {}
+  },
+  "quickCard": {
+    "message": "Text-to-display-test",
+    "rank": 3,
+    "tags": [
+      "Valorant",
+      "CS:GO"
+    ]
+  }
+}

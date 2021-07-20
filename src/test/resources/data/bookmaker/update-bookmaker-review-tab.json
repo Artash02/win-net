@@ -1,0 +1,28 @@
+{
+  "reviews": {
+    "products": {
+      "rating": 7,
+      "intro": "<p>Sports-Games-Covered-Introduction</p>",
+      "summary": "<p>Sports-Games-Covered-Summary</p>",
+      "esports": {
+        "tagGroup": "esports",
+        "tags": [
+          "CS:GO"
+        ]
+      },
+      "sports": {
+        "tagGroup": "sports",
+        "tags": [
+          "Basketball",
+          "Baseball"
+        ]
+      },
+      "other": {
+        "tagGroup": "other-products",
+        "tags": [
+          "Pool Betting"
+        ]
+      }
+    }
+  }
+}

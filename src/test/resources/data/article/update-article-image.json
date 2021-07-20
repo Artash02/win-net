@@ -1,0 +1,15 @@
+{
+  "images":{
+    "default":{
+      "filePath":"file_path_url"
+    },
+    "cropDesktop":{
+      "filePath":""
+    },
+    "cropMobile":{
+      "filePath":""
+    },
+    "caption":"",
+    "credit":""
+  }
+}

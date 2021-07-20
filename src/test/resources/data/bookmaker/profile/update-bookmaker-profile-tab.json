@@ -1,0 +1,35 @@
+{
+  "establishedAt": "2020-02-01T08:39:12.974Z",
+  "owner": "Company-Name-Test-edit",
+  "termsAndConditions": "https://www.vivarobet.am/",
+  "url": "https://www.vivarobet.am/",
+  "reviews": {
+    "overall": {}
+  },
+  "countries": {
+    "licensed": {
+      "tagGroup": "countries",
+      "tags": [
+        "Afghanistan"
+      ]
+    },
+    "restricted": {
+      "tagGroup": "countries",
+      "tags": [
+        "Andorra"
+      ]
+    }
+  },
+  "languages": {
+    "tagGroup": "languages",
+    "tags": [
+      "Portugese"
+    ]
+  },
+  "currencies": {
+    "tagGroup": "currencies",
+    "tags": [
+      "AMD"
+    ]
+  }
+}

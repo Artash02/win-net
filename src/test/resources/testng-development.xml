@@ -1,0 +1,28 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Testing Environment" parallel="tests" thread-count="1">
+    <listeners>
+        <listener class-name="com.epam.reportportal.testng.ReportPortalTestNGListener"/>
+        <listener class-name="utils.TestListener"/>
+    </listeners>
+    <test name="ReviewTests">
+<!--        <classes>-->
+<!--            <class name="tests.ArticleTests.testing.CheckArticleLocation"></class>-->
+<!--        </classes>-->
+                <packages>
+<!--                    <package name="tests.ArticleSharingTests"/>-->
+<!--                    <package name="tests.ArticleTests.testing"/>-->
+<!--                    <package name="tests.BackOfficeTests.testing"/>-->
+                    <package name="tests.BookmakersTests.testing"/>
+<!--                    <package name="tests.CleanURLsTests"/>-->
+<!--                    <package name="tests.ComparisonTests.testing"/>-->
+<!--                    <package name="tests.FilterTests.testing"/>-->
+<!--                    <package name="tests.FooterTests"/>-->
+<!--                    <package name="tests.QuickCardTests.testing"/>-->
+<!--                    <package name="tests.ReviewTests.testing"/>-->
+                </packages>
+    </test>
+</suite>
+
+
+
+

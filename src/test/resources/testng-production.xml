@@ -1,0 +1,24 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Testing Environment Tests" parallel="tests" thread-count="1">
+    <listeners>
+        <listener class-name="com.epam.reportportal.testng.ReportPortalTestNGListener"/>
+        <listener class-name="utils.TestListener"/>
+    </listeners>
+    <test name="packages for Testing environment">
+        <packages>
+            <package name="tests.cleanData"/>
+            <package name="tests.BookmakersTests.production"/>
+            <package name="tests.CleanURLsTests.production"/>
+            <package name="tests.ComparisonTests.production"/>
+            <package name="tests.FilterTests.production"/>
+            <package name="tests.FooterTests.production"/>
+            <package name="tests.RecommenderTests.production"/>
+            <package name="tests.ReviewTests.production"/>
+            <package name="tests.RobotsTests"/>
+        </packages>
+    </test>
+</suite>
+
+
+
+
